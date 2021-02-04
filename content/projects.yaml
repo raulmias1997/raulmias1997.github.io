@@ -1,0 +1,31 @@
+- name: pyMetaRemover
+  url: https://github.com/rahulmistri1997/pyMetaRemover
+  description: Meta Data Cleaner made with Python and PyQt5.
+  status: live
+  tags:
+    - Python
+    - PyQt5
+    - CSS
+    - Venv
+  icon: github
+  image: images/project3.png
+
+- name: Pomodoro-Fx
+  url: https://github.com/rahulmistri1997/Pomodoro-Fx
+  description: Pomodoro Timer with Ambient nature sound.
+  status: live
+  tags:
+    - Java
+    - JavaFx
+    - CSS
+    - SQlite
+  icon: github
+  image: images/project2.jpg
+
+- name: Order Mania
+  description: Food Order Management System
+  status: live
+  tags:
+    - Visual Basic 6.0
+    - MS Access
+  icon: 

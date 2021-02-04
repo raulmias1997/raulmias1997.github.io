@@ -1,0 +1,30 @@
+- profile:
+  initials: RM
+  name: Rahul Mistri
+  email: rahulmistri1997@gmail.com
+  profession: Developer
+  image: images/profile2.jpg
+  location: Pune, Maharashtra
+  relocation: true
+  status: Fresher
+  company : Haven't found one yet
+  for_hire: true
+  focus: Automation
+  focus_url: https://www.forbes.com/sites/gilpress/2019/10/30/2020-predictions-about-automation-and-the-future-of-work-from-forrester/#33d5b4ad1318
+  about: |
+    Inquisitive, energetic computer application specialist skilled in leadership, with a strong foundation in math, logic and cross-platform coding.
+
+    Seeking to leverage solid skills in collaboration, communication and development as a programmer.
+  skills:
+    - Python
+    - SQL
+    - Java
+  tools:
+    - Git
+    - VSCode
+    - Linux
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
